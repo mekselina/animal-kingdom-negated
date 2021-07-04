@@ -68,8 +68,9 @@ const legal_info_2 = magpieViews.view_generator("intro", {
 
   Consent for Participation in Experiments, Data Use, and Data Storage<br><br>
 
-  Study title:	Pragmatics of linguistic communication<br>
+  Study title:	Pragmatics of linguistic communication<br><br>
   Principal Investigator:	Dr Hannah Rohde<br><br>
+  Researcher Collecting Data: Vinicius Macuch Silva<br><br>
 
   <b>Nature of the study.</b> You are about to participate in a study which involves reading sentences carefully, answering questions about them, or writing text after a short sentence prompt. Before you start, we will have some questions about you (e.g., age, gender, language background). Your responses will be recorded. Your session should last for up to 5 minutes. You will be given full instructions shortly.<br><br>
 
